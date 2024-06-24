@@ -1,6 +1,6 @@
 ### Olá 😁
 
-<p>Eu sou Pablo ,estou em processo de transição de carreira.</p>
+<p>Olá me chamo Pablo tenho 29 anos sou casado .No momentos estou em processo de transição de carreira, sempre fui atraído por essa área de tecnologia. Iniciei um curso de rede de computadores no ano de 2023 ,então dentro desse curso conheci a programação e quis aprender mais então conheci a intituiçao DEVCLUB. </p>
 <p>Atualmente estou aprendendo e criando projetos com:</p>
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
