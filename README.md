@@ -1,19 +1,60 @@
-### Olá 😁
+# 👋 Olá, eu sou Pablo Ferreira Martins!
 
-<p>Olá! Meu nome é Pablo Ferreira Martins, tenho 29 anos e sou casado. Desde 2023, venho me dedicando à área de tecnologia, inicialmente através de um curso de redes de computadores. Ao longo do tempo, me apaixonei por programação, e hoje estou focado em aprender e criar projetos com diversas tecnologias, através da plataforma DEVCLUB.</p>
+[![GitHub Followers](https://img.shields.io/github/followers/pablomartinsti?style=social)](https://github.com/pablomartinsti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/pablo-ferreira-martins)
 
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+Sou um **Desenvolvedor Web Full-Stack** apaixonado por tecnologia e em constante aprendizado. Adoro transformar ideias em realidade através do código e estou sempre buscando novas formas de me aprimorar e contribuir para projetos inovadores.
 
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css"/>
+---
 
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-css"/>
+## 🛠️ **Minhas Habilidades**
 
-- <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+- **Frontend:** HTML, CSS, JavaScript, React, Styled-components
+- **Backend:** Node.js, Express.js, Sequelize
+- **Bancos de Dados:** PostgreSQL, MongoDB
+- **Ferramentas e Plataformas:** Git, GitHub, Docker, Yarn, Render, Vercel
+- **Outras Tecnologias:** Docker, CI/CD
 
-- <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablomartinsti)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 **Projetos em Destaque**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomartinsti)](https://github.com/anuraghazra/github-readme-stats)
+### [Cafeteria Martins](https://pablomartinsti.github.io/cafeteria-martins/)
+Um projeto frontend responsivo de uma cafeteria, desenvolvido com HTML e CSS. Melhorias foram feitas na responsividade e um menu hambúrguer foi implementado para telas menores.
+
+### [Code Burger Interface](https://github.com/pablomartinsti/code-burger-interface)
+Sistema completo de uma hamburgueria, com frontend e backend. A aplicação permite a gestão de pedidos, produtos e usuários.
+
+### [Devburger API](https://github.com/pablomartinsti/devburger-api)
+API RESTful para gerenciamento de uma hamburgueria, incluindo autenticação de usuários, CRUD de produtos e pedidos.
+
+### [Mario Landing Page](https://github.com/pablomartinsti/mario-landing-page)
+Landing page com formulário e integração com WhatsApp, seguindo um layout inspirado no tema do Mario.
+
+---
+
+## 📈 **Estatísticas do GitHub**
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pablomartinsti&show_icons=true&theme=radical)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomartinsti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 💬 **Vamos conversar!**
+
+Estou sempre aberto para novas oportunidades de aprendizado e colaboração. Se você tem um projeto interessante ou uma vaga para um desenvolvedor apaixonado por tecnologia, não hesite em me contatar!
+
+📫 **E-mail:** pablomartinsti@outlook.com
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/pablo-ferreira-martins
+
+🌐 **Portfólio:** https://portfolio-mu-drab-11.vercel.app/
+
+---
+
+*Obrigado por visitar meu perfil!*
+
+
 
 
