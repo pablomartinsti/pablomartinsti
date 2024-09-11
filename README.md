@@ -22,10 +22,10 @@ Sou um **Desenvolvedor Web Full-Stack** apaixonado por tecnologia e em constante
 ### [Cafeteria Martins](https://pablomartinsti.github.io/cafeteria-martins/)
 Um projeto frontend responsivo de uma cafeteria, desenvolvido com HTML e CSS. Melhorias foram feitas na responsividade e um menu hambúrguer foi implementado para telas menores.
 
-### [Code Burger Interface](https://github.com/pablomartinsti/code-burger-interface)
+### [CodeBurger Interface](https://github.com/pablomartinsti/CodeBurger-Frontend)
 Sistema completo de uma hamburgueria, com frontend e backend. A aplicação permite a gestão de pedidos, produtos e usuários.
 
-### [Devburger API](https://github.com/pablomartinsti/devburger-api)
+### [Codeburger API](https://github.com/pablomartinsti/CodeBurger-Backend)
 API RESTful para gerenciamento de uma hamburgueria, incluindo autenticação de usuários, CRUD de produtos e pedidos.
 
 ### [Mario Landing Page](https://github.com/pablomartinsti/mario-landing-page)
