@@ -19,14 +19,17 @@ Sou um **Desenvolvedor Web Full-Stack** apaixonado por tecnologia e em constante
 
 ## 🚀 **Projetos em Destaque**
 
-### [Cafeteria Martins](https://pablomartinsti.github.io/cafeteria-martins/)
-Um projeto frontend responsivo de uma cafeteria, desenvolvido com HTML e CSS. Melhorias foram feitas na responsividade e um menu hambúrguer foi implementado para telas menores.
+### [Portfolio](https://github.com/pablomartinsti/Portfolio)
+Portfólio desenvolvido em React com HTML, CSS e JavaScript, apresentando minha trajetória como desenvolvedor Full-Stack. Hospedado na Vercel, o projeto destaca minhas habilidades e principais projetos
 
 ### [CodeBurger Interface](https://github.com/pablomartinsti/CodeBurger-Frontend)
 Sistema completo de uma hamburgueria, com frontend e backend. A aplicação permite a gestão de pedidos, produtos e usuários.
 
 ### [Codeburger API](https://github.com/pablomartinsti/CodeBurger-Backend)
 API RESTful para gerenciamento de uma hamburgueria, incluindo autenticação de usuários, CRUD de produtos e pedidos.
+
+### [Cafeteria Martins](https://pablomartinsti.github.io/cafeteria-martins/)
+Um projeto frontend responsivo de uma cafeteria, desenvolvido com HTML e CSS. Melhorias foram feitas na responsividade e um menu hambúrguer foi implementado para telas menores.
 
 ### [Mario Landing Page](https://github.com/pablomartinsti/mario-landing-page)
 Landing page com formulário e integração com WhatsApp, seguindo um layout inspirado no tema do Mario.
