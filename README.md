@@ -2,7 +2,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/pablomartinsti?style=social)](https://github.com/pablomartinsti)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/pablo-ferreira-martins)
-[![Portfolio](https://portfolio-xi-one-79.vercel.app)](https://portfolio-xi-one-79.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfólio-Online-orange)](https://portfolio-xi-one-79.vercel.app)
 
 Sou um **Desenvolvedor Web Full-Stack** apaixonado por tecnologia e em constante aprendizado. Adoro transformar ideias em realidade através do código e estou sempre buscando novas formas de me aprimorar e contribuir para projetos inovadores.
 
