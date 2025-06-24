@@ -24,23 +24,12 @@ Sou um **Desenvolvedor Web Full-Stack** apaixonado por tecnologia e em constante
 Portfólio desenvolvido em React com HTML, CSS e JavaScript, apresentando minha trajetória como desenvolvedor Full-Stack. Hospedado na Vercel, o projeto destaca minhas habilidades e principais projetos.<br>
 👉 [Acesse o Repositório](https://github.com/pablomartinsti/Portfolio)
 
-### [DevBill$ Dashboard](https://github.com/pablomartinsti/devbills-front)
-Um dashboard financeiro responsivo para controle de receitas e despesas. Com gráficos interativos e filtragem por período, a aplicação foi desenvolvida utilizando React, TypeScript e Node.js.  
-👉 [Frontend](https://devbills.vercel.app/) | 👉 [Backend](https://github.com/pablomartinsti/devbills-api)
+### [Martir Ponto Digital](https://github.com/pablomartinsti/Martir-Ponto-Digital-Frontend)
+Sistema de ponto digital desenvolvido para pequenas empresas, com controle de jornada, escalas de trabalho, autenticação por função (admin, sub-admin e funcionário), validação por GPS e relatórios detalhados de horas.  
+Desenvolvido com **React Native**, **React**, **Node.js** e **MongoDB**.  
+👉 [Frontend](https://github.com/pablomartinsti/Martir-Ponto-Digital-Frontend) | 👉 [Backend](https://github.com/pablomartinsti/Martir-Ponto-Digital-Backend)  |👉 [Mobile](https://github.com/pablomartinsti/martir-ponto-digital-mobile)
 
-### [CodeBurger](https://github.com/pablomartinsti/CodeBurger-Frontend)
-Um sistema completo para gestão de hamburguerias, incluindo um frontend desenvolvido em React e um backend robusto com autenticação, CRUD de produtos e gestão de pedidos.  
-👉 [Frontend](https://github.com/pablomartinsti/CodeBurger-Frontend) | 👉 [Backend](https://github.com/pablomartinsti/CodeBurger-Backend)
 
-### [Cafeteria Martins](https://pablomartinsti.github.io/cafeteria-martins/)
-Landing page responsiva de uma cafeteria, desenvolvida com HTML e CSS. Um menu hambúrguer foi implementado para melhorar a experiência em dispositivos móveis.  
-👉 [Acesse o Repositório](https://pablomartinsti.github.io/cafeteria-martins/)
-
-### [Mario Landing Page](https://github.com/pablomartinsti/mario-landing-page)
-Uma landing page criativa e responsiva, com formulário funcional e integração com WhatsApp, inspirada no tema do Mario.  
-👉 [Acesse o Repositório](https://github.com/pablomartinsti/mario-landing-page)
-
----
 
 ## 📈 **Estatísticas do GitHub**
 
@@ -55,9 +44,8 @@ Estou sempre aberto para novas oportunidades de aprendizado e colaboração. Se 
 
 📫 **E-mail:** pablomartinsti@outlook.com  
 🔗 **LinkedIn:** [Pablo Ferreira Martins](https://www.linkedin.com/in/pablo-ferreira-martins)  
-🌐 **Portfólio:** [Acesse meu Portfólio](https://portfolio-mu-drab-11.vercel.app/)
+🌐 **Portfólio:** [Acesse meu Portfólio](https://portfolio-xi-one-79.vercel.app/)
 
 ---
 
 *Obrigado por visitar meu perfil!*  
-*Sinta-se à vontade para explorar meus repositórios e me enviar uma mensagem!*
