@@ -36,7 +36,7 @@ Sistema completo de ponto digital para pequenas empresas, com:
 
 ### 🌐 [Portfólio Pessoal](https://portfolio-xi-one-79.vercel.app)
 Site desenvolvido em React apresentando minha trajetória, habilidades e projetos.  
-👉 [Acesse o repositório](https://github.com/pablomartinsti/Portfolio)
+👉 [Acesse o repositório](https://portfolio-xi-one-79.vercel.app/)
 
 ---
 
@@ -53,8 +53,8 @@ Estou aberto para colaborar em projetos e oportunidades profissionais. Entre em 
 
 📫 **E-mail:** pablomartinsti@outlook.com  
 🔗 **LinkedIn:** [Pablo Ferreira Martins](https://www.linkedin.com/in/pablo-ferreira-martins)  
-🌐 **Portfólio:** [portfolio-xi-one-79.vercel.app](https://portfolio-xi-one-79.vercel.app)
+🌐 **Portfólio:** [portfolio-xi-one-79.vercel.app](https://portfolio-xi-one-79.vercel.app)  
 
 ---
 
-*Obrigado por visitar meu perfil!*  
+*Obrigado por visitar meu perfil!*
