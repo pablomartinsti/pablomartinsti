@@ -1,60 +1,136 @@
-# 👋 Olá, eu sou Pablo Ferreira Martins!
+# Olá, eu sou Pablo Ferreira Martins
 
-[![GitHub Followers](https://img.shields.io/github/followers/pablomartinsti?style=social)](https://github.com/pablomartinsti)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/pablo-ferreira-martins)
-[![Portfolio](https://img.shields.io/badge/Portfólio-Online-orange)](https://portfolio-xi-one-79.vercel.app)
+**Desenvolvedor Backend Júnior | Node.js | TypeScript | APIs REST**
 
-Sou um **Desenvolvedor Web Full-Stack** apaixonado por tecnologia e em constante evolução.  
-🎓 Estudante de Engenharia de Software (Anhanguera - EAD)  
-🚀 Buscando minha primeira oportunidade na área de desenvolvimento.
+Sou estudante de Engenharia de Software e desenvolvedor backend em formação, focado em construir APIs REST com Node.js, TypeScript, autenticação, regras de negócio, bancos de dados e deploy. Também entendo React o suficiente para integrar dashboards e interfaces que consomem minhas APIs.
 
----
-
-## 🛠️ **Minhas Habilidades**
-
-- **Frontend:** HTML, CSS, JavaScript, React, Styled-components, TailwindCSS
-- **Backend:** Node.js, Express.js, Sequelize, RESTful APIs
-- **Bancos de Dados:** PostgreSQL, MongoDB (MongoDB Atlas)
-- **Ferramentas e Plataformas:** Git, GitHub, Docker, Render, Vercel
-- **Outras Tecnologias:** CI/CD, ESLint, Prettier, TypeScript
+- Uberlândia, MG - Brasil
+- Buscando minha primeira oportunidade como Desenvolvedor Backend Júnior
+- Aberto para vagas remotas ou em Uberlândia/MG
+- Portfólio: [portfolio-pablo-ferreira-martins.vercel.app](https://portfolio-pablo-ferreira-martins.vercel.app/)
+- LinkedIn: [pablo-ferreira-martins](https://www.linkedin.com/in/pablo-ferreira-martins/)
 
 ---
 
-## 🚀 **Projetos em Destaque**
+## Foco Técnico
 
-### 🔹 [Martir Ponto Digital](https://github.com/pablomartinsti/Martir-Ponto-Digital-Frontend)
-Sistema completo de ponto digital para pequenas empresas, com:
-- Controle de jornada de trabalho
-- Gestão de escalas e registros por GPS
-- Perfis diferenciados: admin, sub-admin e funcionário
-- Relatórios detalhados e filtro por período
+**Backend**
 
-🔧 Tecnologias: **React, React Native, Node.js, MongoDB**  
-👉 [Frontend](https://github.com/pablomartinsti/Martir-Ponto-Digital-Frontend) | 👉 [Backend](https://github.com/pablomartinsti/Martir-Ponto-Digital-Backend) | 👉 [Mobile](https://github.com/pablomartinsti/martir-ponto-digital-mobile)
+- Node.js
+- TypeScript
+- JavaScript
+- Express
+- APIs REST
+- JWT
+- Validação de dados
+- Regras de negócio
+
+**Banco de dados**
+
+- PostgreSQL
+- MongoDB
+- Prisma ORM
+- Mongoose
+- MongoDB Compass
+- Neon
+
+**DevOps e ferramentas**
+
+- Docker
+- Git e GitHub
+- Render
+- Vercel
+- HTTPie
+- npm
+
+**Front complementar**
+
+- React
+- HTML
+- CSS
+- Styled Components
+- Consumo de APIs
 
 ---
 
-### 🌐 [Portfólio Pessoal](https://portfolio-xi-one-79.vercel.app)
-Site desenvolvido em React apresentando minha trajetória, habilidades e projetos.  
-👉 [Acesse o repositório](https://portfolio-xi-one-79.vercel.app/)
+## Projetos em Destaque
+
+### IgrejaGestTec - Sistema de gestão financeira para igrejas
+
+Sistema para gestão financeira e espiritual de igrejas, com dashboard, cultos, transações, categorias e relatórios.
+
+**Destaques técnicos:**
+
+- API com Node.js, TypeScript, Express, Prisma e PostgreSQL
+- Autenticação JWT e controle de acesso por perfil
+- Modelagem de entidades, regras de negócio e relatórios
+- Deploy preparado com Render, Neon, migrations e seed
+
+**Repositórios:**
+
+- [Backend/API](https://github.com/pablomartinsti/igrejagesttec-api)
+- [Frontend](https://github.com/pablomartinsti/igrejagesttec-front)
 
 ---
 
-## 📈 **Estatísticas do GitHub**
+### API de NFS-e - Backend para notas de serviço
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=pablomartinsti&show_icons=true&theme=radical)  
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomartinsti&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+API backend para emissão e gestão de notas fiscais de serviço, com estrutura pensada para SaaS multiempresa.
+
+**Destaques técnicos:**
+
+- API REST com Node.js, TypeScript, Express, Prisma e PostgreSQL
+- Organização em controllers, services e repositories
+- Rotas protegidas, validações, regras fiscais e fluxo de status
+- Validação de rotas e payloads com HTTPie
+- Testes com Vitest e Supertest
+
+**Repositório:**
+
+- [API de NFS-e](https://github.com/pablomartinsti/api-nota-fiscal)
 
 ---
 
-## 💬 **Vamos conversar!**
+### Martir Ponto Digital - Sistema de controle de ponto
 
-Estou aberto para colaborar em projetos e oportunidades profissionais. Entre em contato!
+Sistema de controle de ponto com backend, dashboard web e aplicativo mobile, usando autenticação, geolocalização e relatórios.
 
-📫 **E-mail:** pablomartinsti@outlook.com  
-🔗 **LinkedIn:** [Pablo Ferreira Martins](https://www.linkedin.com/in/pablo-ferreira-martins)  
-🌐 **Portfólio:** [portfolio-xi-one-79.vercel.app](https://portfolio-xi-one-79.vercel.app)  
+**Destaques técnicos:**
+
+- Backend com autenticação JWT, funcionários, escalas e marcações
+- Registro de ponto com geolocalização
+- Integração entre API, painel web e app mobile
+- MongoDB/Mongoose e deploy do backend no Render
+
+**Repositórios:**
+
+- [Backend](https://github.com/pablomartinsti/martir-ponto-digital-backend)
+- [Frontend/Admin](https://github.com/pablomartinsti/martir-ponto-digital-admin)
+- [Mobile](https://github.com/pablomartinsti/martir-ponto-digital-mobile)
 
 ---
 
-*Obrigado por visitar meu perfil!*
+## Formação
+
+**Engenharia de Software**  
+Faculdade Anhanguera - cursando, 4º período  
+Previsão de conclusão: 2028
+
+**DevClub - Programação Full Stack**  
+Formação prática com HTML, CSS, JavaScript, React, Node.js, TypeScript, Express, PostgreSQL e MongoDB.
+
+---
+
+## Estatísticas
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pablomartinsti&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablomartinsti&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## Contato
+
+- E-mail: pablomartinsti@outlook.com
+- LinkedIn: [linkedin.com/in/pablo-ferreira-martins](https://www.linkedin.com/in/pablo-ferreira-martins/)
+- Portfólio: [portfolio-pablo-ferreira-martins.vercel.app](https://portfolio-pablo-ferreira-martins.vercel.app/)
